@@ -1,0 +1,9 @@
+{
+  "outputPath": "C:\\users\\foiclaptop\\Downloads\\browser\\",
+  "globalExtensions": [".docx", ".doc", ".pdf", ".xlsx", ".xls", ".pptx", ".ppt", ".txt", ".md", ".rtf", ".csv", ".rtf"],
+  "paths": [
+    {
+      "sourcePath": ["D:\\", "C:\\Users"]
+    }
+  ]
+}
